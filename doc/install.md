@@ -5,10 +5,10 @@ You can also install Dapple in a Docker container following [this guide](#Docker
 
 ## Dapple
 
-Make sure you have node v5+ installed:
+Make sure you have node v6+ installed:
 ```
 $ node --version
-v5.0.0
+v6.0.0
 ```
 
 The normal way to install Dapple is through npm:
